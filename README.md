@@ -33,10 +33,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://keyurgandhi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/keyurgandhi02/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/keyur_gandhi02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:keyurgandhi02@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://keyurgandhi.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.keyurgandhi.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/keyurgandhi02/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-keyurgandhi02-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/keyur_gandhi02/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-keyurgandhi02__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:keyurgandhi02@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-keyurgandhi02@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Keyurgandhi02](https://github.com/Keyurgandhi02)
