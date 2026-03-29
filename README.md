@@ -51,7 +51,7 @@
 
 <h3>🚀 Featured Projects</h3>
 
-- 🔥 &nbsp; **[TradeTact](https://tradetact.in)** — Full stack trading analytics platform built with React, TypeScript, Firebase and React Native
+- 🔥 &nbsp; **[TradeTact](https://smk24-6f0bf.web.app/)** — Full stack trading analytics platform built with React, TypeScript, Firebase and React Native
 - 📊 &nbsp; **ERP System** — Agricultural operations platform serving 100+ daily users built with React and Node.js
   
 <br/>
