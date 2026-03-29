@@ -53,14 +53,7 @@
 
 - 🔥 &nbsp; **[TradeTact](https://tradetact.in)** — Full stack trading analytics platform built with React, TypeScript, Firebase and React Native
 - 📊 &nbsp; **ERP System** — Agricultural operations platform serving 100+ daily users built with React and Node.js
-
-<br/>
-
-<a href="https://github.com/Keyurgandhi02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keyurgandhi02&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyurgandhi02&theme=buefy&layout=compact" />
-</a>
-
+  
 <br/>
 
 <h3>🤝🏻 Connect with Me</h3>
